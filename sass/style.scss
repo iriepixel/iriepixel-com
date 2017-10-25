@@ -911,10 +911,10 @@ header
 				width: 100%;
 				text-align: center;
 				//margin-top: -14px;
-				-ms-transform: translate(-50%, -50%) translateZ(200px);
-				-webkit-transform: translate(-50%, -50%) translateZ(200px);
-				-moz-transform: translate(-50%, -50%) translateZ(200px);
-				transform: translate(-50%, -50%) translateZ(200px);
+				-ms-transform: translate(-50%, -50%);
+				-webkit-transform: translate(-50%, -50%);
+				-moz-transform: translate(-50%, -50%);
+				transform: translate(-50%, -50%);
 
 
         // -webkit-transform: translateZ(0);
