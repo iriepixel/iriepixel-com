@@ -34,7 +34,7 @@ $post_id = get_queried_object_id();
 			<a href="https://www.google.com/maps/place/IRIE+PIXEL/@50.8248103,-0.1398502,15z/data=!4m2!3m1!1s0x0:0x9428cedd6e93a6a0?sa=X&ved=0ahUKEwj2raq3xqXLAhWlA5oKHeH_AOcQ_BIIezAR" target="_blank">
 				<span itemprop="address">4 Orange Row, Brighton, BN1 1UQ, UK</span>
 			</a> | Company No: 9695544 | Registered in England and Wales<br/>	
-			&copy; 2016 <a href="http://iriepixel.com"><span itemprop="company">IRIE PIXEL LIMITED</span></a> | All rights reserved<br/>
+			&copy; <?php echo date("Y"); ?> <a href="http://iriepixel.com"><span itemprop="company">IRIE PIXEL LIMITED</span></a> | All rights reserved<br/>
 		</div>
 
 		<div class="row footer-socials-row row-grey wow fadeIn">
